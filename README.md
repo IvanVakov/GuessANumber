@@ -18,5 +18,5 @@ Example screenshots from the game:
 
 You can play the game directly in your Web browser here:
 
-
+https://replit.com/@Ivakov/Guess-a-number
 
