@@ -29,3 +29,7 @@ while True:
         if player_number != computer_number:
             print("Sorry you run out of tries. Try again in the next game.")
             break
+        else:
+             print("You guess it!")
+             break
+            
