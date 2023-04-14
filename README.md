@@ -11,3 +11,12 @@ Example screenshots from the game:
 
 ![image](https://user-images.githubusercontent.com/119103300/232031478-c06ac1ab-59b2-4ca5-bb38-2883de04d700.png)
 
+## Live Demo
+
+![image](https://user-images.githubusercontent.com/119103300/232077550-154bd8a4-cb06-4f07-b733-d7dd74ca11ec.png)
+
+
+You can play the game directly in your Web browser here:
+
+
+
