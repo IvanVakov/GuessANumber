@@ -1,4 +1,4 @@
-# GuessANumber
+# The Guess A Number game by Ivan Vakov
 This is a simple console game "Guess an number" from SoftUni Fundamentals course with Python
 
 ![Python-Number-Guessing-Game-1](https://user-images.githubusercontent.com/119103300/232029402-30d0f98c-cd89-4cf8-8442-59f09c0c27eb.png)
