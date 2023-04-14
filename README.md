@@ -19,5 +19,7 @@ Example screenshots from the game:
 You can play the game directly in your Web browser here:
 
 ### first open <a href="https://replit.com/@Ivakov/Guess-a-number#main.py">this link<a/>
+  
+### Click Run to start the game
 
 
